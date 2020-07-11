@@ -1,7 +1,7 @@
 model_parameters = {
     "random_forest": {
         "n_estimators": 10,
-        "max_features": 0.5
+        "max_features": 0.4
     },
     "adaboost": {
         "n_estimators": 100
