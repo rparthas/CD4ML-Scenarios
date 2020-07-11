@@ -1,6 +1,7 @@
 cd4ml-workshop/*
 nginx/*
 .venv/*
+cdml/*
 .vscode/*
 **/.DS_Store
 python/*.venv
